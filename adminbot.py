@@ -10,7 +10,7 @@ import telebot
 
 
 
-TOKEN = "1915721541:AAFaIg3ZArkXgg8hhzdK9Cr6lYh0Sgpqn-0" #<-- Tokeningizni shu yerga yozing
+TOKEN = "" #<-- Tokeningizni shu yerga yozing
 bot = telebot.TeleBot(token=TOKEN)
 
 
